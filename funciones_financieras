@@ -7,9 +7,9 @@ La interfaz se encuentra en app.py.
 
 
 def interes_simple(capital, tasa_anual, tiempo_meses):
-    """
-    Calcula el interés simple y el monto final.
-    """
+    
+    #Calcula el interés simple y el monto final.
+    
 
     # Convertimos la tasa de porcentaje a decimal.
     tasa_decimal = tasa_anual / 100
